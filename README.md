@@ -1,4 +1,4 @@
-= DHTPlug =
+# DHTPlug #
 
 This is intended for use with a Jeenode and a DHTxx sensor.
 
@@ -12,4 +12,5 @@ also read the instruction in the readme.txt included in the
 DHT-sensor-library. 
 
 You can also read my posts about this beginning with this one:
-Low Budget Room Monitoring with JeeNode http://www.wd77.de/?p=191
+
+[Low Budget Room Monitoring with JeeNode](http://www.wd77.de/?p=191)
